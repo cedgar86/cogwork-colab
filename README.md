@@ -1,2 +1,2 @@
 # cogwork-colab
-Exploring the potential of Google's Colaboratory
+Exploring the potential of Google Colaboratory
